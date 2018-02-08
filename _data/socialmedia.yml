@@ -1,22 +1,22 @@
 - name: Twitter
-  url: https://twitter.com/abcd
+  url: https://twitter.com/nimkar
   class: fa fa-twitter-square
-  title: "Follow me @foo"
+  title: "Follow me @nimkar"
 
 - name: Google Plus
-  url: https://plus.google.com/+foo
+  url: https://plus.google.com/+NileshNimkar
   class: fa fa-google-plus-square
-  title: "Follow me +foo"
+  title: "Follow me +NileshNimkar"
 
 - name: GitHub
-  url: https://github.com/xyz123abc
+  url: https://github.com/nimkar
   class: fa fa-github-square
   title: Code repository
 
 - name: Contact
   url: "/contact/"
   class: fa fa-envelope-square
-  title: "Reach Us"
+  title: "Reach Me"
 
 - name: RSS
   url: "/feed.xml"

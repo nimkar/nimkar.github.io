@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 show_meta: true
 # imagefeature path is relative to images/ directory.
-imagefeature: foo.png
+imagefeature: nimkar.jpeg
 published: true
-description: "About example.com...."
+description: "About nimkar.net...."
 category: views
 comments: false
 mathjax: false
@@ -14,11 +14,11 @@ noindex: false
 sitemap:
     priority: 0.7
     changefreq: 'monthly'
-    lastmod: 2016-02-13
+    lastmod: 2018-02-07
 # tags will be used as html meta keywords.    
 tags:
-  - "foo boo"
-  - "city tx"
+  - "Nilesh Nimkar"
+  - "New York"
 ---
 
 <div class="post-author text-center">                       
