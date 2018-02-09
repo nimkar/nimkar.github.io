@@ -44,5 +44,4 @@ tags:
 </script>
 </div>
 {% else %}
-Twitter stream will show up here if `twitter_widget_id` is present is `_config.yml`
 {% endif %}
