@@ -116,3 +116,5 @@ links:
 #github_repo: https://github.com/dyndna/lanyon-plus
 #version: 1.1.1
 ## END ##
+
+theme: jekyll-theme-modernist
