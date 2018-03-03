@@ -2,6 +2,7 @@
 layout: post
 title: "Metaparticle: Infrastructure IN the Code !"
 excerpt: Metaparticle allows you to define your infrastructure INSIDE your code. Currently in beta, it is created by one of the creators of Kubernetes.
+imagefeature: /images/business-1853439_640.jpg
 date: 2018-03-04 15:30:00
 categories:
   - kubernetes
