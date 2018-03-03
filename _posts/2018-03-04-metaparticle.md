@@ -16,6 +16,7 @@ tag:
   - DevOps
   - Infrastructure
 ---
+(/images/business-1853439_640.jpg)
 # Metaparticle: Infrastructure IN the Code !
 
 After your code is written, it needs to be packaged and deployed. You can use any number of solutions for orchestrations. You have Terraform, CloudFormation, Vagrant, etc. However for each orchestration solution you have to maintain two different artifacts. 
